@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="gitmate",
+    name="gitmate-cli",
     version="1.0.0",
     author="Your Name",
     description="🤖 Smart Git Automation CLI Tool — Auto commit, push, and manage repos with style!",
